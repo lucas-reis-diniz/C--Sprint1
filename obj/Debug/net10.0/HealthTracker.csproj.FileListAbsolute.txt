@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\bin\Debug\net10.0\HealthTracker.exe
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\bin\Debug\net10.0\HealthTracker.deps.json
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\bin\Debug\net10.0\HealthTracker.runtimeconfig.json
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\bin\Debug\net10.0\HealthTracker.dll
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\bin\Debug\net10.0\HealthTracker.pdb
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\obj\Debug\net10.0\HealthTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\obj\Debug\net10.0\HealthTracker.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\obj\Debug\net10.0\HealthTracker.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\obj\Debug\net10.0\HealthTracker.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\obj\Debug\net10.0\HealthTracker.dll
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\obj\Debug\net10.0\refint\HealthTracker.dll
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\obj\Debug\net10.0\HealthTracker.pdb
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\obj\Debug\net10.0\HealthTracker.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Desktop\CH s1\HealthTracker\obj\Debug\net10.0\ref\HealthTracker.dll
