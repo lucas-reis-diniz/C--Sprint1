@@ -128,6 +128,17 @@ A aplicação apresenta uma interface colorida e organizada com:
 - Mensagens de feedback coloridas (sucesso, erro, aviso)
 - Emojis para melhor identificação visual
 
+## 👥 Integrantes do Grupo
+
+| Nome | RM |
+|------|-----|
+| Diana Letícia de Souza Inocencio | RM553562 |
+| João Viktor Carvalho de Souza | RM552613 |
+| Lucas Reis Diniz | RM552838 |
+| Thiago Araújo Vieira | RM553477 |
+| Victor Augusto Pereira dos Santos | RM553518 |
+| Vitor de Moura Nascimento | RM553806 |
+
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins educacionais.
